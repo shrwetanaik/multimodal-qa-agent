@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# Node
+node_modules/
+.env.local
+
+# VS Code
+.vscode/
+
+# Screenshots, logs
+*.png
+*.log
+test-result.png
